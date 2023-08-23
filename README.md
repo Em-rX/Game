@@ -1,2 +1,2 @@
 # Game
-Rock , Paper , scissor game
+Rock , Paper , scissor game using python
